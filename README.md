@@ -84,7 +84,7 @@ This project analyzes Netflix's dataset to uncover trends, patterns, and insight
 
 4. Explore the analysis and visualizations.
 
-##🌟 Future Scope
+## 🌟 Future Scope
 Perform sentiment analysis on movie/TV show descriptions.
 Analyze trends in popular genres over time.
 Compare Netflix content with other streaming platforms like Amazon Prime or Disney+.
